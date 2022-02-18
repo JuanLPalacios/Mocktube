@@ -32,7 +32,3 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- [microverse](http://www.microverse.org) for the config templates
